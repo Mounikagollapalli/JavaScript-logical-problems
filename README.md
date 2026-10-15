@@ -13,7 +13,7 @@ This repository contains my JavaScript practice programs as I build my programmi
 - Functions and return values
 - Sum, largest and smallest numbers
 - Counting vowels, consonants, and characters
-- DOM manipulation basics
+- DOM manipulation
 
 ## Technologies Used
 
